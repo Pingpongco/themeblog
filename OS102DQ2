@@ -1,0 +1,1874 @@
+<!DOCTYPE html>
+<html class='v2' dir='ltr' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr' xmlns:og='http://ogp.me/ns#'>
+<head>
+<link href='https://www.blogger.com/static/v1/widgets/3416767676-css_bundle_v2.css' rel='stylesheet' type='text/css'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='blogger' name='generator'/>
+<link href='https://www.templatesyard.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='https://www.templatesyard.com/' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="Templatesyard: Free Blogger Templates | Responsive Blogspot Themes - Atom" href="https://www.templatesyard.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="Templatesyard: Free Blogger Templates | Responsive Blogspot Themes - RSS" href="https://www.templatesyard.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="Templatesyard: Free Blogger Templates | Responsive Blogspot Themes - Atom" href="https://www.blogger.com/feeds/4656775291254328315/posts/default" />
+<!--[if IE]><script type="text/javascript" src="https://www.blogger.com/static/v1/jsbin/4244862144-ieretrofit.js"></script>
+<![endif]-->
+<meta content='Get Free Blogger Templates For Your Blog. Responsive and SEO Optimize Blogger Templates. Download Blogger Templates In XML. format.' name='description'/>
+<meta content='https://www.templatesyard.com/' property='og:url'/>
+<meta content='Templatesyard: Free Blogger Templates | Responsive Blogspot Themes' property='og:title'/>
+<meta content='Get Free Blogger Templates For Your Blog. Responsive and SEO Optimize Blogger Templates. Download Blogger Templates In XML. format.' property='og:description'/>
+<!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
+<meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport'/>
+<title>
+Templatesyard: Free Blogger Templates | Responsive Blogspot Themes
+</title>
+<meta content='Get Free Blogger Templates For Your Blog. Responsive and SEO Optimize Blogger Templates. Download Blogger Templates In XML. format.' name='description'/>
+<meta content='Free Blogger Templates, Responsive Blogger Templates, Seo ready blogger templates, Ads ready, widget ready, Premium Blogger templates' name='keywords'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='Templatesyard: Free Blogger Templates | Responsive Blogspot Themes' property='og:title'/>
+<meta content='blog' property='og:type'/>
+<meta content='https://www.templatesyard.com/' property='og:url'/>
+<meta content='Templatesyard: Free Blogger Templates | Responsive Blogspot Themes' property='og:site_name'/>
+<meta content='https://3.bp.blogspot.com/-pmYv4UUkx1w/VgUKCjUEXoI/AAAAAAAAAII/QgAEmBR6WbM/s1600/Page-logo.png' property='og:image'/>
+<meta content='Get Free Blogger Templates For Your Blog. Responsive and SEO Optimize Blogger Templates. Download Blogger Templates In XML. format.' property='og:description'/>
+<meta content='185154148488831' property='fb:app_id'/>
+<meta content='100002048107205' property='fb:admins'/>
+<!-- Social Media meta tag need customer customization -->
+<meta content='m0PbVp60gD1CFsYBiNJUh1EWJ678nMk40-6cwQMW0i0' name='google-site-verification'/>
+<meta content='ISuqHwMVIHEhGb24fRw8SNctK8c' name='alexaVerifyID'/>
+<meta content='EC2C1711D8CE243CD82276C1DD2C3A66' name='msvalidate.01'/>
+<link href='https://plus.google.com/116887624872285622865' rel='author'/>
+<link href='https://plus.google.com/116887624872285622865' rel='publisher'/>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+<script type='text/javascript'>
+   $(document).ready(function(){
+   var daa = $("body").find(".theme-title a").eq(0).text().split(" ");
+    $("body").find(".theme-title a").eq(0).text(daa[0]);
+    var dab = $("body").find(".theme-title a").eq(1).text().split(" ");
+    $("body").find(".theme-title a").eq(1).text(dab[0]);
+    var dac = $("body").find(".theme-title a").eq(2).text().split(" ");
+    $("body").find(".theme-title a").eq(2).text(dac[0]);
+    var dad = $("body").find(".theme-title a").eq(3).text().split(" ");
+    $("body").find(".theme-title a").eq(3).text(dad[0]);
+    var dae = $("body").find(".theme-title a").eq(4).text().split(" ");
+    $("body").find(".theme-title a").eq(4).text(dae[0]);
+    var daf = $("body").find(".theme-title a").eq(5).text().split(" ");
+    $("body").find(".theme-title a").eq(5).text(daf[0]);
+ var dag = $("body").find(".theme-title a").eq(6).text().split(" ");
+    $("body").find(".theme-title a").eq(6).text(dag[0]);
+ var dah = $("body").find(".theme-title a").eq(7).text().split(" ");
+    $("body").find(".theme-title a").eq(7).text(dah[0]);
+    });
+
+</script>
+<script type='text/javascript'>
+    //<![CDATA[
+$(document).ready(function(){
+    $('.container p.theme-description').each(function(){
+     var txt=$(this).text().substr(0,50);
+      var j=txt.lastIndexOf(' ');
+      if(j>10)
+         $(this).text(txt.substr(0,j).replace(/[?,!\.-:;]*$/,'...'));
+    });
+});
+    //]]>
+</script>
+<link href="//fonts.googleapis.com/css?family=Montserrat:400,700%7CLato:400,700%7CLustria:400" rel="stylesheet" type="text/css">
+<link href='//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css' rel='stylesheet'/>
+<link href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css' rel='stylesheet'/>
+   <style type="text/css"><!-- /* 
+<style id='page-skin-1' type='text/css'><!--
+/*
+--></style>
+<style id='template-skin-1' type='text/css'><!--
+#navbar-iframe, .navbar{height:0;visibility:hidden;display:none}
+input,
+button,
+select,
+textarea {
+font-family: inherit;
+font-size: inherit;
+line-height: inherit;
+}
+a {
+color: #29739d;
+text-decoration: none;
+-webkit-transition: all 0.2s;
+-o-transition: all 0.2s;
+transition: all 0.2s;
+}
+a:hover,
+a:focus {
+color: #194760;
+text-decoration: none;
+}
+a:focus {
+outline: thin dotted;
+outline: 5px auto -webkit-focus-ring-color;
+outline-offset: -2px;
+}
+img {
+vertical-align: middle;
+}
+th,
+td {
+line-height: 1.42857143;
+text-align: left;
+vertical-align: top;
+}
+th {
+font-weight: bold;
+}
+td,
+tr td {
+border-top: 1px solid #dddddd;
+}
+ol, ul {
+padding: 0;
+list-style-type: none;
+}
+img {
+max-width: 100%;
+}
+h1, h2, h3, h4, h5, h6 {
+font-family: 'Montserrat', sans-serif;
+}
+body {
+background: #ECF0F1;
+font-family:'lato',sans-serif; font-size: 15px;
+}
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+padding-right: 15px !important;
+padding-left: 0px !important;
+}
+.container .col-lg-8 {
+padding-right:0px !important;
+}
+aside.sidebar-wrapper .col-lg-4 {
+padding-right: 0px !important;
+}
+.top-header {
+box-shadow: inset 0 0 100px rgba(0,0,0,.5);
+background-image: url(https://1.bp.blogspot.com/-75qB_9q6sb8/VjNjKNXXZdI/AAAAAAAAADI/UMWT-7vdxqc/s1600/footer_background.jpg);
+background-position: center;
+background-size: cover;
+}
+.header {
+width: 100%;
+margin-bottom: 10px;    border-radius: 0;
+-webkit-transform: translateZ(0);
+}
+.header .col-sm-12 {
+padding-left: 40px;
+padding-right: 40px;
+}
+.logo {
+float: left;
+}
+.logo > a {
+display: block;    height: 50px;    line-height: 50px;
+}
+nav#main_menu {
+float: right;
+position: relative;
+width: 660px;
+margin-right: -40px;
+}
+ul.navmenu {
+margin-left: 10px;
+padding-left: 0;    list-style: none;
+margin: 0;
+}
+nav#main_menu li {
+float: left;
+position: relative;
+display: block;
+height: auto;
+text-align: center;
+padding: 22px;
+width: 20%;
+box-shadow: 0px 0px 3px -1px rgba(0, 0, 0, 0.1);
+-webkit-font-smoothing: antialiased;
+}
+nav#main_menu li a span.icon { background: url("//3.bp.blogspot.com/-OaXfTLJV_cI/U4Z8n5g7lXI/AAAAAAAADCs/3UxXJZd7M1I/s1600/menu-sprites.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0); display: block; height: 20px; margin: 0 auto; width: 20px; }
+nav#main_menu li a span.i1 { background-position: 0 0; }
+nav#main_menu li a span.i2 { background-position: -20px 0px; }
+nav#main_menu li a span.i3 { background-position: -40px 0px; }
+nav#main_menu li a span.i4 { background-position: -60px 0px; }
+nav#main_menu li a span.i5 { background-position: -80px 0px; }
+nav#main_menu li.highlight a span.i1 { background-position: 0px -20px; }
+nav#main_menu li.highlight a span.i2 { background-position: -20px -20px; }
+nav#main_menu li.highlight a span.i3 { background-position: -40px -20px; }
+nav#main_menu li.highlight a span.i4 { background-position: -60px -20px; }
+nav#main_menu li.highlight a span.i5 { background-position: -80px -20px; }
+nav#main_menu li a:hover{-webkit-box-shadow: inset 0 -2px 0 #faf6f8;    box-shadow: inset 0 -2px 0 #faf6f8;}
+nav#main_menu li a {
+color: #fff;
+font-size: 14px;
+text-transform: uppercase;
+font-style: normal;
+font-family: 'Montserrat', sans-serif;
+height: auto;
+padding: 17px 0;
+}
+#main_menu a#pull {
+display: none;
+}
+.LinkListnav li {
+list-style: none;
+display: inline-block;
+}
+.LinkListnav select {
+display: none;
+width:100%;
+color: #333;
+background: #f7f7f7;
+margin: 0 auto;
+margin-bottom: 10px;
+padding: 5px;
+}
+#content {
+background-color: #fff;
+box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.33);
+padding: 20px 0;
+margin: 0 auto;
+margin-top:10px;
+border-top: 1px solid #ddd;
+}
+.theme-thumb {
+background: url(https://3.bp.blogspot.com/-7Kr6o-36Ttg/VjNkWl_O0JI/AAAAAAAAADY/7sC2MIDieGs/s1600/laptop.png) no-repeat center #f7f7f7;    height: 260px;    border-radius: 2px;    overflow: hidden;    opacity: 1;    filter: alpha(opacity=100);    -webkit-transition: opacity .5s;    -o-transition: opacity .5s;    transition: opacity .5s;border: 1px solid rgba(0, 0, 0, 0.1);
+box-shadow: 0px 0px 3px -1px rgba(0, 0, 0, 0.1);
+border-radius:4px;
+}
+.theme-thumb a {
+display: block;    font-size: 14px;    height: 208px;    overflow: hidden;    text-align: center;    padding: 46px 0px 0;
+}
+.theme-thumb img {
+border: none;
+padding: 0;
+width: 242px;
+border-radius: 0;
+}
+aside.sidebar-wrapper .col-lg-4 {
+padding: 0px;
+}
+#sidebar h2 {
+font-size: 24px;    line-height: 1.5;    font-weight: 600;
+margin: 0;
+padding: 11px 20px;    border-bottom: 1px solid #e5e5e5;    background: #fcfcfc;
+}
+#sidebar .widget {
+margin-bottom: 20px;
+border: 1px solid #e5e5e5;    background: #f8f8f8;}
+#sidebar .widget-content {
+padding: 25px;
+}
+#ContactForm1, .quickedit {
+display: none;
+}
+.footer {
+background: #222528;
+color: #9ea1a6;
+padding: 10px 0;
+text-align: center;
+margin-top: 10px;
+}
+.footer p {
+line-height: 50px;
+float: left;
+margin: 0;
+}
+.footer img {
+float: left;
+padding-right: 10px;
+}
+.love {
+color: #fff;
+animation: pulse 1s ease infinite;
+/* transition: transform 0.2s; */
+}
+.love:hover {
+color: #fff;
+}
+@keyframes pulse {
+0% {
+transform: scale(1);
+}
+50% {
+transform: scale(1.1);
+}
+100% {
+transform: scale(1);
+}
+}
+nav.foomenu {
+float:right;
+margin-top: 0;
+}
+nav.foomenu ul {
+margin: 0;padding: 0;
+color: #9ea1a6;
+}
+nav.foomenu ul li {
+position: relative;
+float: left;
+text-align: center;
+padding: 10px;
+color: #fff;
+margin-left: 20px;
+border-radius: 5px;
+background: #161616;
+border-bottom: 1px solid #333;
+border-left: 1px solid #000;
+border-right: 1px solid #333;
+border-top: 1px solid #000;
+cursor: pointer;
+list-style:none;
+}
+nav.foomenu ul li a {
+margin: 0 8 px;
+color: #9ea1a6;
+}
+#blog-pager {
+clear: both;
+margin: 30px auto;
+text-align: center;
+padding: 7px;
+}
+.blog-pager {
+background: none;
+}
+#blog-pager{clear:both;margin:30px auto;text-align:center; padding: 7px; }
+.blog-pager {background: none;}
+.displaypageNum a,.showpage a,.pagecurrent{font-size: 12px;padding: 5px 12px;margin-right:5px; color: #222; background-color:#eee; border: 1px solid #EEEEEE;}
+.displaypageNum a:hover,.showpage a:hover, .pagecurrent{background:#E5E5E5;text-decoration:none;color: #222;}
+#blog-pager .pagecurrent{font-weight:bold;color: #fff;background:#DB4920;}
+.showpageOf{display:none!important}
+#blog-pager .pages{border:none;}
+.footribbion{
+width: 100%;
+height: 3px;
+background: url(//3.bp.blogspot.com/-lFgY-1MN_lo/UxhG_milWII/AAAAAAAAMRM/cmNjnEqDd9A/s1600/rainbow.png) 0 0 no-repeat;
+background-size: 100%;
+margin-top: 10px;
+margin-bottom: -10px;
+z-index: 1;
+}
+#Label1 {
+display:none;
+}
+--></style>
+<style>
+@media screen and (max-width: 1200px) {
+.logo { float:none;}
+.headerleft img {
+    margin: 0 auto;
+}
+nav#main_menu {
+float: none; 
+width:100%;
+   margin-right: 0;
+}
+.LinkListnav ul {
+display: none;
+}
+.LinkListnav select {
+display: block;
+}
+.foo-left {
+    float: none;
+    margin: 0 auto;
+    width: 100%;
+}
+.footer img {
+    float: none;
+    padding-right: 0;
+}
+.footer p {
+    float: none;
+   margin-top: 0;
+}
+nav.foomenu {
+    float:none;
+    margin: 0 auto;
+       width: 100%;
+    max-width: 555px;
+}
+
+.theme-image {
+    float: none !important;
+    margin: 0 auto;
+}
+.temp-desc {
+    float: none !important;
+    margin: 0 auto;
+}
+.post-info-part {
+    width: 100% !important;
+    float: none !important;
+    margin: 0 auto;
+}
+.social-container {
+    width: 36.4% !important;
+    clear: both;
+    float: none !important;
+      margin: 0 auto;
+}
+li.presale-box {
+float: none !important;
+    overflow: hidden;
+}
+
+}
+
+@media screen and (max-width: 960px) {
+
+.social-container {
+    width: 48.4% !important;
+}
+
+
+}
+@media screen and (max-width: 768px) {
+
+.the-text, .the-form {
+    width: 100% !important;
+    float: none !important;
+    clear: both;
+    }
+#contact-logo {
+    display: none;
+}
+.licensefeat ul li img {
+    width: 100% !important;
+}
+.left-pic, .left-text {
+    float: none !important;
+}
+.right-pic, .right-text {
+    float: none !important;
+}
+.inside {
+      width: 100% !important;}
+  }
+@media screen and (max-width: 700px) {
+
+.social-container {
+    width: 55.4% !important;
+}
+.theme-image {
+width:100% !important;
+}
+.tab-title {
+  display:none;
+}
+#v-nav >ul {
+    width: auto !important;
+    }
+#v-nav >div.tab-content {
+    margin-left: 45px !important;
+    }
+nav.foomenu ul li {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+}
+
+  }
+
+
+@media screen and (max-width: 590px) {
+.theme-image, .post-image img {
+width: 100% !important;
+height: auto !important;;
+}
+.first-image {
+padding: 0 !important;
+}
+.template_free, .template_paid {
+    width: 100% !important;
+    float: none !important;
+    clear: both;
+    overflow: hidden;
+}
+.social-container {
+    width: 66.4% !important;
+}
+h1.theme-title { 
+font-size:40px !important;
+    }
+.serv1, .serv2 {
+    width: 100% !important;
+    float: none !important;
+    margin: 0 auto;
+}
+}
+@media screen and (max-width: 520px) {
+h1.theme-title {
+    font-size: 34px !important;
+}
+ p.theme-description {
+    width: 100% !important;
+    
+}
+.social-container {
+    width: 76.4% !important;
+}
+
+ }
+@media screen and (max-width: 420px) {
+.temp-desc {
+    width: 100% !important;
+}
+h1.theme-title {
+    font-size: 26px !important;
+}
+p.theme-description {
+font-size:16px !important;
+    }
+.postdescription, .temp-sub, .social-container, .postfeatures, nav.foomenu {
+    width: 100% !important;
+    clear: both;
+}
+div#___page_0, div#___page_0 iframe {
+    width: 260px !important;
+}
+.displaypageNum a, .showpage a, .pagecurrent {
+    padding: 5px 10px !important;
+}
+  }
+@media screen and (max-width: 350px) {
+.top-info h1 {
+font-size: 24px !important;
+    }
+.top-info h2 {
+    font-size: 8px !important;
+    }
+.theme-title {
+font-size: 15px !important;
+    }
+h1.theme-title {
+    font-size: 22px !important;
+}
+p.theme-description {
+font-size:12px !imporatnt;
+    }
+.displaypageNum a, .showpage a, .pagecurrent {
+    padding: 2px 4px !important;
+}
+.social-container {
+   display: none !important;
+}
+.blocks {
+    font-size: 10px !important;
+}
+.free_template b, .paid_template b {
+padding: 5px !important;
+    }
+.sublocks {
+padding: 5px !important;
+    width: 30px !important;
+    }
+
+}
+@media screen and (max-width: 260px) {
+h1.theme-title {
+    font-size: 16px !important;
+}
+p.theme-description {
+font-size:8px !imporatnt;
+    }
+.displaypageNum a, .showpage a, .pagecurrent {
+    padding: 0px 2px !important;
+margin-right: 2px !important;
+    border-radius: 2px !important;
+}
+.blocks {
+    font-size: 5px !important;
+    padding: 5px !important;
+}  
+.blocks img {
+    max-width: 50% !important;
+}
+.detail_template b {
+    padding: 5px  !important;
+    width: 50px  !important;
+    font-size: 5px  !important;    
+}
+.detail_template b i, .free_template b i, .paid_template b span {
+    font-size: 40px !important;
+}
+.free_template b, .paid_template b {
+    padding: 5px !important;
+    font-size: 7px;
+}
+.inside {
+    padding: 0px !important;
+}
+.inside b {
+    font-size: 16px !important;
+}
+}
+@media screen and (max-width: 220px) {
+.container {
+    padding-right: 5px;
+    padding-left: 5px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.postdescription {
+    width: 100% !important;
+    clear: both;
+    font-size: 10px !important;
+}
+.postfeatures {
+    padding: 10px 0px !important;
+    }
+.post-body h3 {
+font-size: 16px !important;
+    }
+.free_template b, .paid_template b {
+    padding: 0px !important;
+    font-size: 6px;
+}
+.demo-txt p, .free-txt p, .paid-txt p {
+    padding-left: 28px !important;
+    padding-right: 28px !important;
+}
+span.lprice {
+   
+}
+.demo-desc, .free-desc, .paid-desc {
+    padding-left: 40px !important;
+    padding-right: 40px !important;
+}
+.detail_template b {
+    padding: 0px !important;
+    width: 40px !important;
+    font-size: 3px !important;
+}
+.blocks {
+    font-size: 3px !important;
+    padding: 0px !important;
+}
+.blocks img {
+    max-width: 20% !important;
+}
+.detail_template b i, .free_template b i, .paid_template b span {
+    font-size: 30px !important;
+}
+.demo-txt p, .free-txt p, .paid-txt p {
+    font-size: 10px !important;
+ 
+}
+  .free_template b, .paid_template b {
+    padding: 0px !important;
+    font-size: 3px;
+}
+.sublocks {
+    padding: 0px !important;
+    width: 20px !important;
+}
+}
+</style>
+<script type='text/javascript'>  
+ $(document).ready(function(){
+$("<select></select>").appendTo(".LinkListnav");$("<option></option>",{selected:"selected",value:"",text:"Navigation"}).appendTo(".LinkListnav select");$(".LinkListnav a").each(function(){var el=$(this);$("<option></option>",{value:el.attr("href"),text:el.text()}).appendTo(".LinkListnav select")});$(".LinkListnav select").change(function(){window.location=$(this).find("option:selected").val()});
+})
+$(function(){
+$( ".share-box" ).appendTo( ".spread-love" );
+});
+ </script>
+<style>
+.theme-title {
+  background: url(//2.bp.blogspot.com/-yEpjG5UKBl4/VJ_Z-AVstVI/AAAAAAAAAws/8NERFBKo-fM/s1600/yellow-border.png) top center no-repeat;
+    font-weight: 700;
+    line-height: 50px;
+    margin: -2px auto 20px;
+    padding-left: 32px;
+    padding-right: 32px;
+    font-size: 24px;
+    text-align: center;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-top: none;
+    box-shadow: 0px 0px 3px -1px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+        font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+.theme-title a {
+color:#2c3341;
+  }
+.theme-title a:hover {
+    color: #DB4920;
+}
+</style>
+<script type='text/javascript'>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-70768855-1', 'auto', 'blogger');
+        ga('blogger.send', 'pageview');
+      </script>
+<script>
+//<![CDATA[
+$(document).ready(function () { 
+    $('[data-MBTdemo]').click(function (e) { 
+        e.preventDefault(); 
+        var target = e.target || e.srcElement; 
+        if ($(target).attr('target') == "_blank") { 
+            window.open("http://www.templatesyard.com/p/demo-test.html?url=" + $(target).attr('href'), '_blank'); 
+        } else { 
+            window.location = "http://www.templatesyard.com/p/demo-test.html?url=" + $(target).attr('href'); 
+        }
+    });
+
+    $('[data-MBTdownload]').click(function (e) { 
+        e.preventDefault(); 
+        var target = e.target || e.srcElement; 
+        if ($(target).attr('target') == "_blank") { 
+            window.open("http://www.mybloggertricks.com/p/download.html?url=" + $(target).attr('href'), '_blank'); 
+        } else { 
+            window.location = "http://www.mybloggertricks.com/p/download.html?url=" + $(target).attr('href'); 
+        }
+    });
+});
+//]]>
+</script>
+<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=4656775291254328315&amp;zx=7896a5ec-98e6-4126-89df-3fbb6d220416' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=4656775291254328315&amp;zx=7896a5ec-98e6-4126-89df-3fbb6d220416' rel='stylesheet'/></noscript>
+
+<!-- data-ad-client=ca-pub-7037533604525321 -->
+
+</head>
+<style>
+.tybar{width: 100%;
+margin: 0;
+height: 50px;
+display: table;
+font-size: 17px;
+line-height: 50px;
+font-weight: 600;
+-webkit-font-smoothing: antialiased;
+color: rgb(255, 255, 255);
+    font-family: 'Montserrat',sans-serif;
+border-color: rgb(255, 255, 255);
+background-color: #0e1032;
+box-shadow: 0 1px 3px 2px rgba(0,0,0,0.15);    
+text-align: center;}
+.tybar .bar-but{font-size: 17px;
+font-weight: bold;
+margin-left: 25px;
+background: #fff;
+padding: 5px;
+color: #fff;
+background-color: #f2132d;
+line-height: 1.05;
+padding: 4px 15px;
+cursor: pointer;
+text-decoration: none;
+border-radius: 3px;}
+.tybar .bar-but a{color:#fff;    text-decoration: none;}
+.tybar i {
+float: right;
+padding-right: 40px;
+cursor: pointer;
+line-height: 50px;
+}
+body{margin-top:-49.33px;}
+body{margin-top:49.33px ;transition:600ms;-webkit-transition:600ms;-moz-transition:600ms;-o-transition:600ms;}
+.toggleclose{top:-75px!important;}
+.togglebody{margin-top:0!important;}
+.fa-arrow-down {
+position: fixed;
+right: 30px;
+top: -2px;
+background:#00BE98;
+color: #FFFFFF;
+width: 40px;
+height: 30px;
+border-radius: 3px;
+line-height: 26px!important;
+padding-top: 10px;
+padding-right: 0!important;
+}
+.tybar{z-index:99999;top:0;transition:600ms;-webkit-transition:600ms;-moz-transition:600ms;-o-transition:600ms;position:fixed}
+.blink_me {
+color:#f2132d;
+margin-right:10px;
+    -webkit-animation-name: blinker;
+    -webkit-animation-duration: 1s;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-iteration-count: infinite;
+    
+    -moz-animation-name: blinker;
+    -moz-animation-duration: 1s;
+    -moz-animation-timing-function: linear;
+    -moz-animation-iteration-count: infinite;
+    
+    animation-name: blinker;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+
+@-moz-keyframes blinker {  
+    0% { opacity: 1.0; }
+    50% { opacity: 0.0; }
+    100% { opacity: 1.0; }
+}
+
+@-webkit-keyframes blinker {  
+    0% { opacity: 1.0; }
+    50% { opacity: 0.0; }
+    100% { opacity: 1.0; }
+}
+
+@keyframes blinker {  
+    0% { opacity: 1.0; }
+    50% { opacity: 0.0; }
+    100% { opacity: 1.0; }
+}
+@media screen and (max-width:800px) {
+.tybar{display:none;}
+body {
+    margin-top: 0;
+    }
+}
+</style>
+<script>
+//<![CDATA[
+
+
+jQuery(document).ready(function(){ 
+
+  jQuery( '.tybar i' ).click(function() {
+  jQuery( '.tybar' ).toggleClass( 'toggleclose' );
+  jQuery( 'body' ).toggleClass( 'togglebody' );
+  jQuery( '.tybar i' ).toggleClass( 'fa-times' );
+  jQuery( '.tybar i' ).toggleClass( 'fa-arrow-down' );
+
+});
+
+});
+//]]>
+</script>
+<body>
+<div class='tybar'><span class='blink_me'>HOT!</span>Subscribe To Get Latest Blogging Tips<span class='bar-but'><a href='https://www.youtube.com/channel/UCCDjoOPSNiuLJX06HirPjOA?sub_confirmation=1' rel='nofollow'>Click Here</a></span><i class='fa fa-times'></i></div>
+<div id='MBT-REDIRECTION'>
+<div class='navbar no-items section' id='navbar'>
+</div>
+<header class='top-header'>
+<div class='header'>
+<div class='container header-foot-border'>
+<div class='col-sm-12'>
+<div class='logo'>
+<div class='headerleft section' id='headerleft'><div class='widget Header' data-version='1' id='Header1'>
+<div id='header-inner'>
+<a href='https://www.templatesyard.com/' style='display: block' target='_self'>
+<img alt="Templatesyard: Free Blogger Templates | Responsive Blogspot Themes" height="80px; " id="Header1_headerimg" src="//4.bp.blogspot.com/-fQoTeiBngFI/WIsOxHnaIZI/AAAAAAAACMM/hrI9kr-brz0ShN-oIsdIiEylnwm2ZtMkgCK4B/s1600/logo.png" style="display: block" width="308px; ">
+</a>
+</div>
+</div></div>
+</div>
+<nav class='clearfix' id='main_menu'>
+<div class='LinkListnav' id='LinkList2'>
+<ul class='navmenu clearfix'>
+<li><a href='https://www.templatesyard.com/' target='_self'><span class='icon i1'></span>Home</a></li>
+<li><a href='search/label/Blogger%20Templates?&max-results=6' target='_self'><span class='icon i4'></span>Templates</a></li>
+<li><a href='/p/about.html' rel='author' target='_self'><span class='icon i2'></span>About Us</a></li>
+<li><a href='/p/license.html' target='_self'><span class='icon i3'></span>License</a></li>
+<li><a href='/p/contact-us.html' target='_self'><span class='icon i5'></span>Contact</a></li>
+</ul>
+</div>
+</nav>
+</div>
+</div>
+</div>
+<div id='bottom-info'>
+<div class='container top-info'>
+<h1>Beautiful & Professional Blogger Templates</h1>
+<h2>We specializes in designing clean, elegant and beautiful Blogger templates for both newbies & experts.</h2>
+<div style='margin:8px 0;'>
+<center>
+<div class='wixs'>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- TemplatesYard 728 * 90 Fixed -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-7037533604525321"
+     data-ad-slot="5115024692"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+    </div>
+<style>
+.wixs {
+    display: inline-block;
+    background: #fff;
+}
+
+@media only screen and (max-width: 1023px) {
+.wixs {
+    max-width:100% !important;
+overflow:hidden;
+}
+}
+</style>
+</center></div>
+<center><span id='send'><a href='https://gumroad.com/templatesyard' rel='nofollow' target='_blank'>Premium Version <i class='fa fa-shopping-cart'></i></a></span></center>
+<!--img alt='' src='http://4.bp.blogspot.com/-4wnCgNQ6oNg/VmF-8Oki-uI/AAAAAAAAAHI/ehnvLBgM1DU/s1600/Templatesyard-Introduction.png'/--></div>
+</div>
+<style>
+#send {
+    background: #E74C3D;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 4px;
+    border: 1px solid #DB4920;
+    padding: 6px 12px!important;
+margin: 5px 0 15px;
+    display: inline-block;
+}
+#send a {
+    color: #fff;
+    text-shadow: 1px 1px 2px #333;
+}
+#bottom-info{
+    border: none;
+    margin: 0;
+        padding: 20px 0 0px;
+}
+.top-info {
+margin:0 auto;
+  }
+.top-info h1 {
+color:#fff;
+        text-align: center;
+    font-size: 38px;
+    padding-bottom: 5px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+.top-info h2 {
+color:#fff;
+    font-size: 20px;
+text-align:center;
+font-family:  Lustria;
+}
+.top-info img {
+margin:0 auto;
+vertical-align: middle;
+  }
+</style>
+</header>
+<div class='site-content container' id='content'>
+<div class='container'>
+<div class='col-lg-8'>
+<div class='alert-message alert'>
+<i class='fa fa-whatsapp'></i>+919819897052 Official WhatsApp Support</div>
+<style>
+.container .main .widget.Blog {
+    margin: 10px 0;
+}
+.alert-message.alert {
+  border: 1px solid #14c55f;
+    color: #fff;
+    font-size: 15px;
+    line-height: 18px;
+    padding: 10px;
+    margin: 0 0 10px;
+    vertical-align: baseline;
+    text-align: center;
+    border-radius: 4px;
+    width: 98%;
+    background: #2ecc71;
+    font-family: Montserrat;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 0.8px;
+}
+.item .alert-message.alert, .static_page .alert-message.alert {
+border-radius: 0px;
+width: 100%;
+box-sizing: border-box;
+margin-right: 0;
+}
+@media only screen and (max-width: 767px) {
+.alert-message.alert {
+   font-size: 10px;
+   line-height: 20px;
+   clear: both;
+   box-sizing: border-box;
+}
+}
+</style>
+<center style='width: 98%;'><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- TemplatesYard 728 * 90 Fixed -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-7037533604525321"
+     data-ad-slot="5115024692"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></center>
+<div class='main section' id='main'><div class='widget Blog' data-version='1' id='Blog1'>
+<div class='blog-posts hfeed'>
+<!--Can't find substitution for tag [defaultAdStart]-->
+<div class='post-outer'>
+
+<div class='col-sm-6'>
+  
+<div class='theme' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://1.bp.blogspot.com/-_X7nNrcppJ4/X3CRp7N97-I/AAAAAAAAJYA/B5JvyLog_R4Nf5ueVgGh3w3Wx3V4cvtgACNcBGAsYHQ/s16000/Seoyard%2BBlogger%2BTemplate.png'/>
+<meta content='4656775291254328315'/>
+<meta content='5384846937277446904'/>
+<script type='text/javascript'>
+//<![CDATA[
+function bp_thumbnail_resize(image_url,post_title)
+{
+var width_size=240;
+var height_size=160;
+var show_default_thumbnail=true;
+var default_thumbnail="http://2.bp.blogspot.com/-erTXCq61ULM/TmHYAQBZ0GI/AAAAAAAACCs/6cBX54Dn6Gs/s72-c/default.png";
+if(show_default_thumbnail == true && image_url == "") image_url= default_thumbnail;
+image_tag='<img  src="'+image_url.replace(/\/s[0-9]+(\-c)?\//, "/s300/")+'" class="thumbanil alignright" alt="'+post_title+'" width="'+width_size+'" height="'+height_size+'"/>';
+if(image_url!="") return image_tag; else return "";
+}
+//]]>
+</script>
+<script type='text/javascript'>
+ $(document).ready(function() {$('.thumbanil alignright').attr('src', function(i, src) {return src.replace( 's72-c', 's360-c' );});});
+</script>
+<div class='theme-thumb'>
+<a href='https://www.templatesyard.com/2020/09/seoyard-blogger-template.html' itemprop='name' target='_self' title='Seoyard Blogger Template'>
+<script type='text/javascript'>
+document.write(bp_thumbnail_resize("https://1.bp.blogspot.com/-_X7nNrcppJ4/X3CRp7N97-I/AAAAAAAAJYA/B5JvyLog_R4Nf5ueVgGh3w3Wx3V4cvtgACNcBGAsYHQ/s72-c/Seoyard%2BBlogger%2BTemplate.png","Seoyard Blogger Template"));
+        
+          </script>
+</a></div>
+<a name='5384846937277446904'></a>
+<h2 class='theme-title' itemprop='name'>
+<a href='https://www.templatesyard.com/2020/09/seoyard-blogger-template.html' target='_self'>Seoyard Blogger Template</a>
+</h2>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-5384846937277446904' itemprop='articleBody'>
+</div>
+</div>
+
+</div>
+  
+</div>
+<div class='post-outer'>
+
+<div class='col-sm-6'>
+  
+<div class='theme' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://1.bp.blogspot.com/-bh5x1p3UHt8/Xzq5dTUvy1I/AAAAAAAAJK0/OotKnEhoLzMek_vdHSI9jEaqdRWLtljmQCNcBGAsYHQ/s1600/FastPro%2BBlogger%2BTemplate.png'/>
+<meta content='4656775291254328315'/>
+<meta content='977007117583692586'/>
+<div class='theme-thumb'>
+<a href='https://www.templatesyard.com/2020/08/fastpro-blogger-template.html' itemprop='name' target='_self' title='FastPro Blogger Template'>
+<script type='text/javascript'>
+document.write(bp_thumbnail_resize("https://1.bp.blogspot.com/-bh5x1p3UHt8/Xzq5dTUvy1I/AAAAAAAAJK0/OotKnEhoLzMek_vdHSI9jEaqdRWLtljmQCNcBGAsYHQ/s72-c/FastPro%2BBlogger%2BTemplate.png","FastPro Blogger Template"));
+        
+          </script>
+</a></div>
+<a name='977007117583692586'></a>
+<h2 class='theme-title' itemprop='name'>
+<a href='https://www.templatesyard.com/2020/08/fastpro-blogger-template.html' target='_self'>FastPro Blogger Template</a>
+</h2>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-977007117583692586' itemprop='articleBody'>
+</div>
+</div>
+
+</div>
+  
+</div>
+<div class='post-outer'>
+
+<div class='col-sm-6'>
+  
+<div class='theme' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://3.bp.blogspot.com/-6Zqo1Of5QKk/XxBS8JSIQWI/AAAAAAAAI_k/KtDrtCRiRhI4HHOTISXdWmoagz1xE66ewCK4BGAYYCw/s1600/Ultralite-Blogger-Template.png'/>
+<meta content='4656775291254328315'/>
+<meta content='5932648708445651848'/>
+<div class='theme-thumb'>
+<a href='https://www.templatesyard.com/2020/07/ultralite-blogger-template.html' itemprop='name' target='_self' title='UltraLite Blogger Template'>
+<script type='text/javascript'>
+document.write(bp_thumbnail_resize("https://3.bp.blogspot.com/-6Zqo1Of5QKk/XxBS8JSIQWI/AAAAAAAAI_k/KtDrtCRiRhI4HHOTISXdWmoagz1xE66ewCK4BGAYYCw/s72-c/Ultralite-Blogger-Template.png","UltraLite Blogger Template"));
+        
+          </script>
+</a></div>
+<a name='5932648708445651848'></a>
+<h2 class='theme-title' itemprop='name'>
+<a href='https://www.templatesyard.com/2020/07/ultralite-blogger-template.html' target='_self'>UltraLite Blogger Template</a>
+</h2>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-5932648708445651848' itemprop='articleBody'>
+</div>
+</div>
+
+</div>
+  
+</div>
+<div class='post-outer'>
+
+<div class='col-sm-6'>
+  
+<div class='theme' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://1.bp.blogspot.com/-kAIBuDGE2LE/XvRxeQ2FXAI/AAAAAAAAI0Y/M6ndZvkDGukz2anE_TPFWosHiEPTB5NuQCNcBGAsYHQ/s1600/Ultramag%2BBlogger%2BTemplate.png'/>
+<meta content='4656775291254328315'/>
+<meta content='7237084748930354649'/>
+<div class='theme-thumb'>
+<a href='https://www.templatesyard.com/2020/06/ultramag-blogger-template.html' itemprop='name' target='_self' title='UltraMag Blogger Template'>
+<script type='text/javascript'>
+document.write(bp_thumbnail_resize("https://1.bp.blogspot.com/-kAIBuDGE2LE/XvRxeQ2FXAI/AAAAAAAAI0Y/M6ndZvkDGukz2anE_TPFWosHiEPTB5NuQCNcBGAsYHQ/s72-c/Ultramag%2BBlogger%2BTemplate.png","UltraMag Blogger Template"));
+        
+          </script>
+</a></div>
+<a name='7237084748930354649'></a>
+<h2 class='theme-title' itemprop='name'>
+<a href='https://www.templatesyard.com/2020/06/ultramag-blogger-template.html' target='_self'>UltraMag Blogger Template</a>
+</h2>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-7237084748930354649' itemprop='articleBody'>
+</div>
+</div>
+
+</div>
+  
+</div>
+<div class='post-outer'>
+
+<div class='col-sm-6'>
+  
+<div class='theme' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://1.bp.blogspot.com/-zUT5a-RS_G0/XsFsqAhgpVI/AAAAAAAAIXE/JH2O0ZuOW7IQ83CU81YGQsn9YnhZx1n4QCNcBGAsYHQ/s1600/FlatBlog%2BBlogger%2BTemplate.png'/>
+<meta content='4656775291254328315'/>
+<meta content='3799895563405773571'/>
+<div class='theme-thumb'>
+<a href='https://www.templatesyard.com/2020/05/flatblog-blogger-template.html' itemprop='name' target='_self' title='FlatBlog Blogger Template'>
+<script type='text/javascript'>
+document.write(bp_thumbnail_resize("https://1.bp.blogspot.com/-zUT5a-RS_G0/XsFsqAhgpVI/AAAAAAAAIXE/JH2O0ZuOW7IQ83CU81YGQsn9YnhZx1n4QCNcBGAsYHQ/s72-c/FlatBlog%2BBlogger%2BTemplate.png","FlatBlog Blogger Template"));
+        
+          </script>
+</a></div>
+<a name='3799895563405773571'></a>
+<h2 class='theme-title' itemprop='name'>
+<a href='https://www.templatesyard.com/2020/05/flatblog-blogger-template.html' target='_self'>FlatBlog Blogger Template</a>
+</h2>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-3799895563405773571' itemprop='articleBody'>
+</div>
+</div>
+
+</div>
+  
+</div>
+<div class='post-outer'>
+
+<div class='col-sm-6'>
+  
+<div class='theme' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://4.bp.blogspot.com/-lSBqXTCO_w8/XnoKSeutC4I/AAAAAAAAICk/3Z2OQz0hGpEFx02pi9xHEzkHFDZ-J75dwCNcBGAsYHQ/s1600/MaxSeo%2BBlogger%2BTemplate.png'/>
+<meta content='4656775291254328315'/>
+<meta content='4211305667511934118'/>
+<div class='theme-thumb'>
+<a href='https://www.templatesyard.com/2020/03/maxseo-blogger-template.html' itemprop='name' target='_self' title='MaxSeo Blogger Template'>
+<script type='text/javascript'>
+document.write(bp_thumbnail_resize("https://4.bp.blogspot.com/-lSBqXTCO_w8/XnoKSeutC4I/AAAAAAAAICk/3Z2OQz0hGpEFx02pi9xHEzkHFDZ-J75dwCNcBGAsYHQ/s72-c/MaxSeo%2BBlogger%2BTemplate.png","MaxSeo Blogger Template"));
+        
+          </script>
+</a></div>
+<a name='4211305667511934118'></a>
+<h2 class='theme-title' itemprop='name'>
+<a href='https://www.templatesyard.com/2020/03/maxseo-blogger-template.html' target='_self'>MaxSeo Blogger Template</a>
+</h2>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-4211305667511934118' itemprop='articleBody'>
+</div>
+</div>
+
+</div>
+  
+</div>
+<div class='post-outer'>
+
+<div class='col-sm-6'>
+  
+<div class='theme' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://1.bp.blogspot.com/-4I5YIEuQqlc/Xj-rCr9nW0I/AAAAAAAAHvk/IUT3eZfvas0jNDhCisVQbRHXvO6OxpFvQCNcBGAsYHQ/s1600/Raptor%2BBlogger%2BTemplate.png'/>
+<meta content='4656775291254328315'/>
+<meta content='1171083446929673026'/>
+<div class='theme-thumb'>
+<a href='https://www.templatesyard.com/2020/02/raptor-blogger-template.html' itemprop='name' target='_self' title='Raptor Blogger Template'>
+<script type='text/javascript'>
+document.write(bp_thumbnail_resize("https://1.bp.blogspot.com/-4I5YIEuQqlc/Xj-rCr9nW0I/AAAAAAAAHvk/IUT3eZfvas0jNDhCisVQbRHXvO6OxpFvQCNcBGAsYHQ/s72-c/Raptor%2BBlogger%2BTemplate.png","Raptor Blogger Template"));
+        
+          </script>
+</a></div>
+<a name='1171083446929673026'></a>
+<h2 class='theme-title' itemprop='name'>
+<a href='https://www.templatesyard.com/2020/02/raptor-blogger-template.html' target='_self'>Raptor Blogger Template</a>
+</h2>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-1171083446929673026' itemprop='articleBody'>
+</div>
+</div>
+
+</div>
+  
+</div>
+<div class='post-outer'>
+
+<div class='col-sm-6'>
+  
+<div class='theme' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://1.bp.blogspot.com/-OBH-t1U3FD4/XhV7BcojbkI/AAAAAAAAHmo/x7ccXLl9znsKjFIAFtxhYfqCYTopydExgCNcBGAsYHQ/s1600/Superfast%2BBlogger%2BTemplate.png'/>
+<meta content='4656775291254328315'/>
+<meta content='5621100710292657309'/>
+<div class='theme-thumb'>
+<a href='https://www.templatesyard.com/2020/01/superfast-blogger-template.html' itemprop='name' target='_self' title='Superfast Blogger Template'>
+<script type='text/javascript'>
+document.write(bp_thumbnail_resize("https://1.bp.blogspot.com/-OBH-t1U3FD4/XhV7BcojbkI/AAAAAAAAHmo/x7ccXLl9znsKjFIAFtxhYfqCYTopydExgCNcBGAsYHQ/s72-c/Superfast%2BBlogger%2BTemplate.png","Superfast Blogger Template"));
+        
+          </script>
+</a></div>
+<a name='5621100710292657309'></a>
+<h2 class='theme-title' itemprop='name'>
+<a href='https://www.templatesyard.com/2020/01/superfast-blogger-template.html' target='_self'>Superfast Blogger Template</a>
+</h2>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-5621100710292657309' itemprop='articleBody'>
+</div>
+</div>
+
+</div>
+  
+</div>
+<!--Can't find substitution for tag [adEnd]-->
+</div>
+<div class='blog-pager' id='blog-pager'>
+<span id='blog-pager-older-link'>
+<a class='blog-pager-older-link' href='https://www.templatesyard.com/search?updated-max=2020-01-09T08:50:00-08:00&max-results=8' id='Blog1_blog-pager-older-link' title='Older Posts'>Older Posts
+<i class='fa fa-chevron-circle-right'></i></a>
+</span>
+</div>
+<div class='clear'></div>
+<div class='blog-feeds'>
+</div>
+</div></div>
+</div>
+<aside class='sidebar-wrapper'>
+<div class='col-lg-4'>
+<div class='sidebar section' id='sidebar'><div class='widget HTML' data-version='1' id='HTML2'>
+<h2 class='title'>Bestseller</h2>
+<div class='widget-content'>
+<style>
+.bestseller {
+    clear: both;
+    margin-bottom: 10px;
+}
+.bestseller img {
+    width: 100%;
+    height: auto;
+    margin: 0;
+    object-fit: cover;
+    border: 1px solid #1A1B1D;
+    transition: 1s;
+    -webkit-transition: .4s;
+}
+.bestseller div {
+font-size: 25px;
+color: #fff;
+text-align: center;
+    text-transform: uppercase;
+    background: #E74C3D;
+border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+</style>
+<div class="bestseller">
+<a href="https://www.templatesyard.com/2020/06/ultramag-blogger-template.html"><img src="https://1.bp.blogspot.com/-goZqSOKqxEo/XvRxeZ2NinI/AAAAAAAAI0U/YMSqPJWPd6MIwWYtVoF8zYkJUm3hwq-2wCNcBGAsYHQ/s1600/Ultramag.png" />
+<div>UltraMag</div></a>
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=4656775291254328315&widgetType=HTML&widgetId=HTML2&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML2"));' rel='nofollow' target='configHTML2' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget HTML' data-version='1' id='HTML3'>
+<div class='widget-content'>
+<center><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- TemplatesYard 300 * 600 Responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7037533604525321"
+     data-ad-slot="6591757894"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></center>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=4656775291254328315&widgetType=HTML&widgetId=HTML3&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML3"));' rel='nofollow' target='configHTML3' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget HTML' data-version='1' id='HTML1'>
+<div class='widget-content'>
+<style>
+.plusbtbox {
+    height: 150px !important;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.likesbtbox, .plusbtbox{
+height:210px;
+position: relative;
+background: #fff;
+border: 1px solid #bbb;
+-moz-box-shadow: 0 0 3px rgba(0,0,0,0.1),inset 0 0 5px rgba(0,0,0,0.1);
+-webkit-box-shadow: 0 0 3px rgba(0,0,0,0.1),inset 0 0 5px rgba(0,0,0,0.1);
+box-shadow: 0 0 3px rgba(0,0,0,0.1),inset 0 0 5px rgba(0,0,0,0.1);
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+}
+.likesbtbox:before, .plusbtbox:before {
+bottom: -3px;
+left: 3px;
+right: 3px;
+}
+.likesbtbox:before, .likesbtbox:after, .plusbtbox:before, .plusbtbox:after {
+content: "";
+position: absolute;
+height: 1px;
+background: #fff;
+border: 1px solid #bbb;
+border-top: 0;
+box-shadow: 0 0 3px rgba(0,0,0,0.1);
+}
+.likesbtbox:after, .plusbtbox:after {
+left: 6px;
+right: 6px;
+bottom: -5px;
+box-shadow: 0 0 3px rgba(0,0,0,0.2);
+}
+.likesbtbox:before, .likesbtbox:after, .plusbtbox:before, .plusbtbox:after {
+content: "";
+position: absolute;
+height: 1px;
+background: #fff;
+border: 1px solid #bbb;
+border-top: 0;
+box-shadow: 0 0 3px rgba(0,0,0,0.1);
+}
+</style>
+<div class="social-container">
+
+		
+			
+
+
+
+<div class="likesbtbox">
+  <iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Ftemplatesyard&amp;width=326&amp;height=258&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=false&amp;appId=657369777629228" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:210px; width:100%;" allowtransparency="true"></iframe></div></div><a href="http://mybloggerthemes.com/" rel="dofollow" title="Free Blogger Templates" style="color: transparent;">Free Blogger Templates</a>
+</div>
+</div></div>
+</div></aside>
+</div>
+</div>
+<footer>
+<div class='footribbion'></div>
+<div class='footer'>
+<div class='container'>
+<div class='foo-left'>
+<img alt="" src="//2.bp.blogspot.com/-BAWBsbnvads/VecOoaz1CWI/AAAAAAAAAFk/os6QrKrur2U/s1600/mini-logo.png"><p>  Copyright &#169; <script type='text/javascript'>var creditsyear = new Date();document.write(creditsyear.getFullYear());</script><a href='https://plus.google.com/u/0/116887624872285622865' rel='author' target='_blank'> Templatesyard</a>. All Rights Reserved. Build with <i class='fa fa-heart' style='color:#ff695d;'></i> By Indian</p></div>
+<nav class='foomenu'>
+<ul>
+<li><a href='/p/terms-of-use.html'>Terms & Conditions</a></li>
+<li><a href='/p/privacy-policy.html'>Privacy Policy</a></li>
+<li><a href='/p/privacy-policy.html#refund'>Refund Policy</a></li>
+<li><a href='/p/contact-us.html'>Contact</a></li>
+</ul>
+</nav>
+</div>
+</div>
+</footer>
+<script>
+//<![CDATA[
+ $(function() {
+   $('.tab-content').wrapInner("<center></center>");
+    }); 
+//]]>
+</script>
+<style>
+.wrapper
+{
+    width: 100%;
+    margin: 0px auto;
+    clear:both;
+}
+
+.wrapper h1, .wrapper h4, .wrapper p, .wrapper pre, .wrapper ul, .wrapper li
+{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+
+
+.wrapper li
+{
+    outline: 0;
+    text-decoration: none;
+}
+
+#v-nav
+{
+    height: 100%;
+    margin: auto;
+    color: #333;
+   font-size:12px/18px;
+}
+
+#v-nav >ul
+{
+    float: left;
+    width: 210px;
+    display: block;
+    position: relative;
+    top: 0;
+    border-right-width: 0;
+    margin: auto 0 !important;
+    padding:0;
+}
+
+#v-nav >ul >li
+{
+    width: 100%;
+    list-style-type: none;
+    display: block;
+    cursor:pointer;
+    text-shadow:0 1px #ffffff;
+    font-weight: 700;
+    position: relative;
+    border: 1px solid #e1e5e7;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    margin: auto;
+    padding: 10px 15px !important;  
+       background-color: #f0f0f0;
+    background-image: -webkit-linear-gradient(top, rgba(255, 255, 255, 0.9) 50%, rgba(255, 255, 255, 0.1) 100%);
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.9) 10%, rgba(255, 255, 255, 0.1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#80ffffff',endColorstr='#00ffffff',GradientType=0)
+   color:#777 !important;
+}
+
+#v-nav >ul >li.current
+{
+    color: #111;
+ text-shadow: 0 1px #ffffff;
+    border-right: none;
+    z-index: 10;
+    background: #f6f8f9 !important;
+    position: relative;
+}
+
+
+#v-nav >ul >li.last
+{
+    border-bottom:1px solid #e1e5e7;
+}
+
+#v-nav >div.tab-content
+{
+    margin-left: 208px;
+    border: 1px solid #e1e5e7;
+    background: #f6f8f9;
+    min-height: 400px;
+    position: relative;
+    z-index: 9;
+    padding: 12px;
+    moz-box-shadow: inset 0 0 35px 5px #fafbfd;
+    -webkit-box-shadow: inset 0 0 35px 5px #fafbfd;
+    box-shadow: inset 0 0 35px 5px #fafbfd;
+    display: none;
+    padding: 25px;
+}
+
+#v-nav >div.tab-content >h4
+{
+    font-size: 1.2em;
+    color: Black;
+    text-shadow: 0px 1px 1px #F2F1F0;
+    border-bottom: 1px dotted #EEEDED;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#v-nav >div.tab-content.active {
+    display: block;
+}
+
+</style>
+<script>
+$(function() {
+    var items = $('#v-nav>ul>li').each(function() {
+        $(this).click(function() {
+            //remove previous class and add it to clicked tab
+            items.removeClass('current');
+            $(this).addClass('current');
+
+            //hide all content divs and show current one
+            $('#v-nav>div.tab-content').hide().eq(items.index($(this))).show('fast');
+
+            window.location.hash = $(this).attr('tab');
+        });
+    });
+
+    if (location.hash) {
+        showTab(location.hash);
+    }
+    else {
+        showTab("tab1");
+    }
+
+    function showTab(tab) {
+        $("#v-nav ul li:[tab*=" + tab + "]").click();
+    }
+
+    // Bind the event hashchange, using jquery-hashchange-plugin
+    $(window).hashchange(function() {
+        showTab(location.hash.replace("#", ""));
+    })
+
+    // Trigger the event hashchange on page load, using jquery-hashchange-plugin
+    $(window).hashchange();
+});
+</script>
+<script type='text/javascript'>
+  /*<![CDATA[*/
+    var perPage=8;
+    var numPages=4;
+    var firstText ='First';
+    var lastText ='Last';
+    var prevText ='« Previous';
+    var nextText ='Next »';
+    var urlactivepage=location.href;
+    var home_page="/";
+  /*]]>*/
+</script>
+<script type='text/javascript'>
+  /*<![CDATA[*/
+  if (typeof firstText == "undefined") firstText = "First";
+  if (typeof lastText == "undefined") lastText = "Last";
+  var noPage;
+  var currentPage;
+  var currentPageNo;
+  var postLabel;
+  pagecurrentg();
+
+  function looppagecurrentg(pageInfo) {
+      var html = '';
+      pageNumber = parseInt(numPages / 2);
+      if (pageNumber == numPages - pageNumber) {
+          numPages = pageNumber * 2 + 1
+      }
+      pageStart = currentPageNo - pageNumber;
+      if (pageStart < 1) pageStart = 1;
+      lastPageNo = parseInt(pageInfo / perPage) + 1;
+      if (lastPageNo - 1 == pageInfo / perPage) lastPageNo = lastPageNo - 1;
+      pageEnd = pageStart + numPages - 1;
+      if (pageEnd > lastPageNo) pageEnd = lastPageNo;
+      html += "<span class='showpageOf'>Page " + currentPageNo + ' of ' + lastPageNo + "</span>";
+      var prevNumber = parseInt(currentPageNo) - 1;
+
+      //Iccsi was here, doing magic      
+      if (currentPageNo > 1) {
+          if (currentPage == "page") {
+              html += '<span class="showpage firstpage"><a href="' + home_page + '">' + firstText + '</a></span>'
+          } else {
+              html += '<span class="displaypageNum firstpage"><a href="/search/label/' + postLabel + '?&max-results=' + perPage + '">' + firstText + '</a></span>'
+          }
+      }
+
+      if (currentPageNo > 2) {
+          if (currentPageNo == 3) {
+              if (currentPage == "page") {
+                  html += '<span class="showpage"><a href="' + home_page + '">' + prevText + '</a></span>'
+              } else {
+                  html += '<span class="displaypageNum"><a href="/search/label/' + postLabel + '?&max-results=' + perPage + '">' + prevText + '</a></span>'
+              }
+          } else {
+              if (currentPage == "page") {
+                  html += '<span class="displaypageNum"><a href="#" onclick="redirectpage(' + prevNumber + ');return false">' + prevText + '</a></span>'
+              } else {
+                  html += '<span class="displaypageNum"><a href="#" onclick="redirectlabel(' + prevNumber + ');return false">' + prevText + '</a></span>'
+              }
+          }
+      }
+      if (pageStart > 1) {
+          if (currentPage == "page") {
+              html += '<span class="displaypageNum"><a href="' + home_page + '">1</a></span>'
+          } else {
+              html += '<span class="displaypageNum"><a href="/search/label/' + postLabel + '?&max-results=' + perPage + '">1</a></span>'
+          }
+      }
+      if (pageStart > 2) {
+          html += ' ... '
+      }
+      for (var jj = pageStart; jj <= pageEnd; jj++) {
+          if (currentPageNo == jj) {
+              html += '<span class="pagecurrent">' + jj + '</span>'
+          } else if (jj == 1) {
+              if (currentPage == "page") {
+                  html += '<span class="displaypageNum"><a href="' + home_page + '">1</a></span>'
+              } else {
+                  html += '<span class="displaypageNum"><a href="/search/label/' + postLabel + '?&max-results=' + perPage + '">1</a></span>'
+              }
+          } else {
+              if (currentPage == "page") {
+                  html += '<span class="displaypageNum"><a href="#" onclick="redirectpage(' + jj + ');return false">' + jj + '</a></span>'
+              } else {
+                  html += '<span class="displaypageNum"><a href="#" onclick="redirectlabel(' + jj + ');return false">' + jj + '</a></span>'
+              }
+          }
+      }
+      if (pageEnd < lastPageNo - 1) {
+          html += '...'
+      }
+      if (pageEnd < lastPageNo) {
+          if (currentPage == "page") {
+              html += '<span class="displaypageNum"><a href="#" onclick="redirectpage(' + lastPageNo + ');return false">' + lastPageNo + '</a></span>'
+          } else {
+              html += '<span class="displaypageNum"><a href="#" onclick="redirectlabel(' + lastPageNo + ');return false">' + lastPageNo + '</a></span>'
+          }
+      }
+
+
+      var nextnumber = parseInt(currentPageNo) + 1;
+      if (currentPageNo < (lastPageNo - 1)) {
+          if (currentPage == "page") {
+              html += '<span class="displaypageNum"><a href="#" onclick="redirectpage(' + nextnumber + ');return false">' + nextText + '</a></span>'
+          } else {
+              html += '<span class="displaypageNum"><a href="#" onclick="redirectlabel(' + nextnumber + ');return false">' + nextText + '</a></span>'
+          }
+      }
+
+      if (currentPageNo < lastPageNo) {
+          //Iccsi was here, doing magic
+          if (currentPage == "page") {
+              html += '<span class="displaypageNum lastpage"><a href="#" onclick="redirectpage(' + lastPageNo + ');return false">' + lastText + '</a></span>'
+          } else {
+              html += '<span class="displaypageNum lastpage"><a href="#" onclick="redirectlabel(' + lastPageNo + ');return false">' + lastText + '</a></span>'
+          }
+      }
+
+      var pageArea = document.getElementsByName("pageArea");
+      var blogPager = document.getElementById("blog-pager");
+      for (var p = 0; p < pageArea.length; p++) {
+          pageArea[p].innerHTML = html
+      }
+      if (pageArea && pageArea.length > 0) {
+          html = ''
+      }
+      if (blogPager) {
+          blogPager.innerHTML = html
+      }
+  }
+
+  function totalcountdata(root) {
+      var feed = root.feed;
+      var totaldata = parseInt(feed.openSearch$totalResults.$t, 10);
+      looppagecurrentg(totaldata)
+  }
+
+  function pagecurrentg() {
+      var thisUrl = urlactivepage;
+      if (thisUrl.indexOf("/search/label/") != -1) {
+          if (thisUrl.indexOf("?updated-max") != -1) {
+              postLabel = thisUrl.substring(thisUrl.indexOf("/search/label/") + 14, thisUrl.indexOf("?updated-max"))
+          } else {
+              postLabel = thisUrl.substring(thisUrl.indexOf("/search/label/") + 14, thisUrl.indexOf("?&max"))
+          }
+      }
+      if (thisUrl.indexOf("?q=") == -1 && thisUrl.indexOf(".html") == -1) {
+          if (thisUrl.indexOf("/search/label/") == -1) {
+              currentPage = "page";
+              if (urlactivepage.indexOf("#PageNo=") != -1) {
+                  currentPageNo = urlactivepage.substring(urlactivepage.indexOf("#PageNo=") + 8, urlactivepage.length)
+              } else {
+                  currentPageNo = 1
+              }
+              document.write("<script src=\"" + home_page + "feeds/posts/summary?max-results=1&alt=json-in-script&callback=totalcountdata\"><\/script>")
+          } else {
+              currentPage = "label";
+              if (thisUrl.indexOf("&max-results=") == -1) {
+                  perPage = 20
+              }
+              if (urlactivepage.indexOf("#PageNo=") != -1) {
+                  currentPageNo = urlactivepage.substring(urlactivepage.indexOf("#PageNo=") + 8, urlactivepage.length)
+              } else {
+                  currentPageNo = 1
+              }
+              document.write('<script src="' + home_page + 'feeds/posts/summary/-/' + postLabel + '?alt=json-in-script&callback=totalcountdata&max-results=1" ><\/script>')
+          }
+      }
+  }
+
+  function redirectpage(numberpage) {
+      jsonstart = (numberpage - 1) * perPage;
+      noPage = numberpage;
+      var nameBody = document.getElementsByTagName('head')[0];
+      var newInclude = document.createElement('script');
+      newInclude.type = 'text/javascript';
+      newInclude.setAttribute("src", home_page + "feeds/posts/summary?start-index=" + jsonstart + "&max-results=1&alt=json-in-script&callback=finddatepost");
+      nameBody.appendChild(newInclude)
+  }
+
+  function redirectlabel(numberpage) {
+      jsonstart = (numberpage - 1) * perPage;
+      noPage = numberpage;
+      var nameBody = document.getElementsByTagName('head')[0];
+      var newInclude = document.createElement('script');
+      newInclude.type = 'text/javascript';
+      newInclude.setAttribute("src", home_page + "feeds/posts/summary/-/" + postLabel + "?start-index=" + jsonstart + "&max-results=1&alt=json-in-script&callback=finddatepost");
+      nameBody.appendChild(newInclude)
+  }
+
+  function finddatepost(root) {
+          post = root.feed.entry[0];
+          var timestamp1 = post.published.$t.substring(0, 19) + post.published.$t.substring(23, 29);
+          var timestamp = encodeURIComponent(timestamp1);
+          if (currentPage == "page") {
+              var pAddress = "/search?updated-max=" + timestamp + "&max-results=" + perPage + "#PageNo=" + noPage
+          } else {
+              var pAddress = "/search/label/" + postLabel + "?updated-max=" + timestamp + "&max-results=" + perPage + "#PageNo=" + noPage
+          }
+          location.href = pAddress
+      }
+ /*]]>*/
+</script>
+<script type='text/javascript'>
+//<![CDATA[
+$(document).ready(function() {
+$('img').each(function(){
+var $img = $(this);
+var filename = $img.attr('src')
+$img.attr('alt', filename.substring((filename.lastIndexOf('/'))+1, filename.lastIndexOf('.')));
+});
+});
+//]]>
+</script>
+<script type='text/javascript'>
+//<![CDATA[
+$(document).ready(function() {
+$('img').each(function(){
+var $img = $(this);
+var filename = $img.attr('src')
+$img.attr('title', filename.substring((filename.lastIndexOf('/'))+1, filename.lastIndexOf('.')));
+});
+});
+//]]>
+</script>
+<script type='text/javascript'>
+//<![CDATA[
+var scrollTimer = null;
+$(window).scroll(function() {
+   var viewportHeight = $(this).height(),
+       scrollbarHeight = viewportHeight / $(document).height() * viewportHeight,
+       progress = $(this).scrollTop() / ($(document).height() - viewportHeight),
+       distance = progress * (viewportHeight - scrollbarHeight) + scrollbarHeight / 2 - $('#scroll').height() / 2;
+    $('#scroll')
+        .css('top', distance)
+        .text(' (' + Math.round(progress * 100) + '%)')
+        .fadeIn(100);
+    if (scrollTimer !== null) {
+        clearTimeout(scrollTimer);
+    }
+    scrollTimer = setTimeout(function() {
+        $('#scroll').fadeOut();
+    }, 1500);
+});
+//]]>
+</script>
+<script type='text/javascript'>
+//<![CDATA[
+$(document).ready(function() {
+  $('img').each(function(){
+    var $img = $(this);
+    var filename = $img.attr('src')
+    $img.attr('title', filename.substring((filename.lastIndexOf('/'))+1, filename.lastIndexOf('.')));
+ 
+    $img.attr('alt', filename.substring((filename.lastIndexOf('/'))+1, filename.lastIndexOf('.')));
+  });
+});
+//]]>
+</script>
+<script style='text/javascript'>
+//<![CDATA[
+ct = document.getElementById('comment-holder');
+if (ct) {
+    b = ct.getElementsByTagName("p");
+    for (i = 0; i < b.length; i++) {
+        if (b.item(i).getAttribute('CLASS') == 'comment-content') {
+            _str = b.item(i).innerHTML.replace(/:\)\)/gi, "<img src='http://2.bp.blogspot.com/-Ph2wxEvy2mc/UTIr8-fdHjI/AAAAAAAABAo/3use2PsPhMA/s1600/taunt.gif' alt='' class='ty-comment-mod'/>");
+            _str = _str.replace(/:img:/gi, "<img src='");
+            _str = _str.replace(/:eimg:/gi, "' width=auto class='ty-comment-mod'>");
+            _str = _str.replace(/:youtube:/gi, "<embed src='//www.youtube.com/v/");
+            _str = _str.replace(/:eyoutube:/gi, "?hl=zh_TW&amp;version=3' type='application/x-shockwave-flash' width='auto' height='auto' allowscriptaccess='always' allowfullscreen='true'></embed>");
+            b.item(i).innerHTML = _str
+        }
+    }
+}
+//]]>
+</script>
+</div><!--MBT-REDIRECTION ENDS-->
+
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/2872693907-widgets.js"></script>
+<script type='text/javascript'>
+window['__wavt'] = 'AOuZoY4H6u5qvmmh53nOraY7EHGBokHUSQ:1603843914743';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d4656775291254328315','//www.templatesyard.com/','4656775291254328315');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '4656775291254328315', 'title': 'Templatesyard: Free Blogger Templates | Responsive Blogspot Themes', 'url': 'https://www.templatesyard.com/', 'canonicalUrl': 'https://www.templatesyard.com/', 'homepageUrl': 'https://www.templatesyard.com/', 'searchUrl': 'https://www.templatesyard.com/search', 'canonicalHomepageUrl': 'https://www.templatesyard.com/', 'blogspotFaviconUrl': 'https://www.templatesyard.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': true, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': 'UA-70768855-1', 'encoding': 'UTF-8', 'locale': 'en-GB', 'localeUnderscoreDelimited': 'en_gb', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'isDynamicViewsAvailable': true, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Templatesyard: Free Blogger Templates | Responsive Blogspot Themes - Atom\x22 href\x3d\x22https://www.templatesyard.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Templatesyard: Free Blogger Templates | Responsive Blogspot Themes - RSS\x22 href\x3d\x22https://www.templatesyard.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Templatesyard: Free Blogger Templates | Responsive Blogspot Themes - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/4656775291254328315/posts/default\x22 /\x3e\n', 'meTag': '', 'adsenseClientId': 'ca-pub-7037533604525321', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'ieCssRetrofitLinks': '\x3c!--[if IE]\x3e\x3cscript type\x3d\x22text/javascript\x22 src\x3d\x22https://www.blogger.com/static/v1/jsbin/4244862144-ieretrofit.js\x22\x3e\x3c/script\x3e\n\x3c![endif]--\x3e', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/6591291f6ffc7aed', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'disableGComments': true, 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Share to Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 300, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en_GB\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Read more', 'pageType': 'index', 'pageName': '', 'pageTitle': 'Templatesyard: Free Blogger Templates | Responsive Blogspot Themes', 'metaDescription': 'Get Free Blogger Templates For Your Blog. Responsive and SEO Optimize Blogger Templates. Download Blogger Templates In XML. format.'}}, {'name': 'features', 'data': {'sharing_get_link_dialog': 'true', 'sharing_native': 'false'}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard', 'ok': 'OK', 'postLink': 'Post link'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Custom', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'Templatesyard: Free Blogger Templates | Responsive Blogspot Themes', 'description': 'Get Free Blogger Templates For Your Blog. Responsive and SEO Optimize Blogger Templates. Download Blogger Templates In XML. format.', 'url': 'https://www.templatesyard.com/', 'type': 'feed', 'isSingleItem': false, 'isMultipleItems': true, 'isError': false, 'isPage': false, 'isPost': false, 'isHomepage': true, 'isArchive': false, 'isLabelSearch': false}}]);
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'headerleft', document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML2', 'sidebar', document.getElementById('HTML2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML3', 'sidebar', document.getElementById('HTML3'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'sidebar', document.getElementById('HTML1'), {}, 'displayModeFull'));
+</script>
+</body>
+</html>
